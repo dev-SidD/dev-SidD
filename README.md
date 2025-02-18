@@ -33,6 +33,4 @@
 
 </p>
 
----
 
-⭐️ From [Siddharth Singh](https://github.com/sid-dotexe)
