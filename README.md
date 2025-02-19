@@ -1,5 +1,5 @@
-## <h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
-### <h3 align="center">🚀 MERN Stack Developer | Passionate about Web Development & Problem Solving</h3>
+<h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
+<h3 align="center">🚀 MERN Stack Developer | Passionate about Web Development & Problem Solving</h3>
 
 ---
 
@@ -7,7 +7,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
 </p>
 
-## 💡 About Me
+---
+
+## 💡 **About Me**
 - 🎓 3rd-year ECE student at **IIIT Kota**
 - 💻 Love building scalable web applications
 - ⚡ Competitive Programmer (**Pupil on Codeforces | 1232 Rating**)
@@ -17,9 +19,9 @@
 
 ---
 
-# 🛠️ Skills & Technologies  
+## 🛠️ **Skills & Technologies**
 
-## 🚀 Programming Languages  
+### 🚀 **Programming Languages**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -31,7 +33,7 @@
 
 ---
 
-## ⚙️ Frontend Development  
+### ⚙️ **Frontend Development**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -40,7 +42,7 @@
 
 ---
 
-## 🔧 Backend Development  
+### 🔧 **Backend Development**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
@@ -48,7 +50,7 @@
 
 ---
 
-## 🛢️ Databases  
+### 🛢️ **Databases**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
@@ -56,7 +58,7 @@
 
 ---
 
-## 🛠️ Tools & Platforms  
+### 🛠️ **Tools & Platforms**
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
@@ -67,8 +69,24 @@
 
 ---
 
-## 📫 Let's Connect  
+
+
+## 📫 **Let's Connect**
 <p align="center">
-  <a href="https://linkedin.com/in/SIDDHARTH-SINGH" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin" /></a>
-  <a href="mailto:sid25jun03@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/SIDDHARTH-SINGH" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sid25jun03@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+✨ **Thanks for visiting!** ✨
