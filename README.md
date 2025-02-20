@@ -73,7 +73,7 @@
 
 ## 📫 **Let's Connect**
 <p align="center">
-  <a href="https://linkedin.com/in/SIDDHARTH-SINGH" target="_blank">
+  <a href="[https://linkedin.com/in/](https://www.linkedin.com/in/siddharth-singh-b96032257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="mailto:sid25jun03@gmail.com" target="_blank">
