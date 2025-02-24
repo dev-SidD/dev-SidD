@@ -12,7 +12,6 @@
 ## 💡 **About Me**
 - 🎓 3rd-year ECE student at **IIIT Kota**
 - 💻 Love building scalable web applications
-- ⚡ Competitive Programmer (**Pupil on Codeforces | 1232 Rating**)
 - 🌱 Currently exploring **Next.js & GraphQL**
 - 🏏 Cricket Enthusiast, Built **CricTrac** for live cricket scores
 - 🔥 Always ready to collaborate on exciting projects!
