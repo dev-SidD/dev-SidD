@@ -10,9 +10,9 @@
 ---
 
 ## 💡 **About Me**
-- 🎓 3rd-year ECE student at **IIIT Kota**
+- 🎓 Electronics & Communications Engineering student at **IIIT Kota**
 - 💻 Love building scalable web applications
-- 🌱 Currently exploring **Next.js & GraphQL**
+- 🌱 Currently exploring **Next.js**
 - 🏏 Cricket Enthusiast, Built **CricTrac** for live cricket scores
 - 🔥 Always ready to collaborate on exciting projects!
 
