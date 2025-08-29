@@ -2,7 +2,7 @@
   
 # Hi there, I'm Siddharth Singh 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Problem+Solver;Web+Development+Enthusiast;Cricket+Fan+%F0%9F%8F%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Problem+Solver;Web+Development+Enthusiast" alt="Typing SVG" /></a>
 
 <p>
   A passionate Electronics & Communications Engineering student from <strong>IIIT Kota</strong> with a love for building scalable web applications and solving complex problems.
