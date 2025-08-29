@@ -1,91 +1,111 @@
-<h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
-<h3 align="center">🚀 MERN Stack Developer | Passionate about Web Development & Problem Solving</h3>
+<div align="center">
+  
+# Hi there, I'm Siddharth Singh 👋
+
+### 🚀 MERN Stack Developer | Web Enthusiast | Problem Solver 🚀
+
+<p>I'm a passionate developer focused on building scalable and efficient web applications. <br/> Always eager to learn, collaborate, and bring ideas to life!</p>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
-</p>
+## 💡 About Me
+
+- 🎓 I'm currently pursuing my degree in Electronics & Communications Engineering at the **Indian Institute of Information Technology (IIIT), Kota**.
+- 💻 My main focus is the **MERN stack**, but I'm always excited to explore new technologies. Right now, I'm diving into **Next.js**!
+- 🏏 As a huge cricket fan, I combined my passion for coding and sports to build **CricTrac**, an application for live cricket scores.
+- 🔥 I'm actively looking for collaboration opportunities on exciting projects. Feel free to reach out!
 
 ---
 
-## 💡 **About Me**
-- 🎓 Electronics & Communications Engineering student at **IIIT Kota**
-- 💻 Love building scalable web applications
-- 🌱 Currently exploring **Next.js**
-- 🏏 Cricket Enthusiast, Built **CricTrac** for live cricket scores
-- 🔥 Always ready to collaborate on exciting projects!
+## 🛠️ My Tech Stack
+
+Here are some of the technologies I've been working with:
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+      <br><strong>Express.js</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
+      <br><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
+      <br><strong>HTML5</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
+      <br><strong>CSS3</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
+      <br><strong>Tailwind CSS</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+      <br><strong>C++</strong>
+    </td>
+     <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+      <br><strong>Java</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ **Skills & Technologies**
+## 📊 My GitHub Stats
 
-### 🚀 **Programming Languages**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-</p>
+<div align="center">
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-SidD&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-SidD&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /></p>
+  
+</div>
 
 ---
 
-### ⚙️ **Frontend Development**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-</p>
+## 🤝 Let's Connect!
 
----
-
-### 🔧 **Backend Development**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-</p>
-
----
-
-### 🛢️ **Databases**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</p>
-
----
-
-### 🛠️ **Tools & Platforms**
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/cloudinary/image/upload/v1696618762/cloudinary_logo_for_white_bg.svg" alt="Cloudinary" width="90" height="40"/>
-</p>
-
----
-
-
-
-## 📫 **Let's Connect**
 <p align="center">
   <a href="https://www.linkedin.com/in/siddharth-singh-b96032257?" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sid25jun03@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dev-SidD&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
-
----
-
-✨ **Thanks for visiting!** ✨
